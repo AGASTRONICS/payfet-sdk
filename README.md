@@ -1,7 +1,7 @@
 
 # 🧰 Payfet Python SDK
 
-**Payfet SDK** is an official Python library for integrating with [Payfet](https://payfet.com) — a multi-provider fintech infrastructure platform built for startups, SaaS companies, and cooperatives.
+**Payfet SDK** is an official Python library for integrating with [Payfet](https://payfet.vercel.app) — a multi-provider fintech infrastructure platform built for startups, SaaS companies, and cooperatives.
 
 > **Motto: Payfet — For Everyone, By Everyone**
 
@@ -24,7 +24,7 @@ This SDK provides a smooth developer experience for:
 ## 📦 Installation
 
 ```bash
-pip install payfet-sdk
+pip install payfet
 ```
 
 > Minimum Python version: `3.7+`
@@ -99,7 +99,7 @@ Visit [docs.payfet.com](https://docs.payfet.com) (coming soon) for detailed endp
 We welcome community contributions! To get started:
 
 1. Fork the repository  
-2. Create a new branch (`feature/my-new-feature`)  
+2. Create a new branch (`feature/your-new-feature`)  
 3. Commit your changes  
 4. Submit a Pull Request
 
@@ -117,9 +117,10 @@ For larger features or ideas, feel free to open an issue first.
 
 ## 🙋 Support
 
-- Issues: [GitHub Issues](https://github.com/yourusername/payfet-sdk/issues)
-- Email: support@payfet.com
-- Twitter: [@payfet](https://twitter.com/payfet)
+- Issues: [GitHub Issues](https://github.com/AGASTRONICS/payfet-sdk/issues)
+- Email: agastronics.dev@gmail.com
+- X (Twitter): [@payfet](https://x.com/payfet)
+- LinkedIn: [@payfet](https://www.linkedin.com/company/payfet)
 
 ---
 
